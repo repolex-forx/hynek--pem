@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/hynek/pem/commit/91ec16ac3b1915ebf0009d203fb7165533d6d943",
       "git:hexsha": "91ec16ac3b1915ebf0009d203fb7165533d6d943",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-19T13:27:51.270936+00:00"
     },
     {
       "@id": "https://repolex.ai/r/hynek/pem/commit/ebaea2e64d00157857e0bf0c210323182668c2fe",
